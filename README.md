@@ -13,3 +13,4 @@ python3 scanner.py <filename>
 *0.0 - 6.5: Likely standard code, text, or non-compressed data.
 *6.5 - 7.2: Suspicious, possibly compressed.
 *7.2 - 8.0: High Risk. Likely encrypted, packed, or obfuscated malware payload.
+Çrş 15 Nis 2026 22:15:21 +03
